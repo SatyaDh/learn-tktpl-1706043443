@@ -1,4 +1,4 @@
-package is.ac.ui.cs.mobileprogramming.satyadharma.stopwatch;
+package is.ac.ui.cs.mobileprogramming.satyadharma.mvvm;
 
 import org.junit.Test;
 
